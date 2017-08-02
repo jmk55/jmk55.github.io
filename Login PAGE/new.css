@@ -1,0 +1,20 @@
+body {
+	background-color: #fff
+	font-family: sans-serif;
+	margin:auto;
+
+}
+
+.header{
+	width:100%;
+	margin:auto;
+	height:80px;
+	background-color: #333;
+	text-align: left;
+	position: fixed;
+	color: #fff;
+	font-size: 54px;
+	font-weight: bold;
+	padding:10px;
+
+}
